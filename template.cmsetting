@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ColorMapSetting transitionMode="0" 
+valueMode="1" 
+autoValueRange="true" 
+minValue="0" 
+maxValue="1" 
+fillUppeer="true" 
+fillLower="true" 
+colorTableMinValue="0" 
+visibilityMode="1" 
+direction="1" 
+title="Title" 
+autoNumberOfLabels="true" 
+numberOfLabels="5" 
+labelFormat="%5.2f" 
+titleFont="Times New Roman,14,-1,5,50,0,0,0,0,0,Regular" 
+labelFont="Times New Roman,14,-1,5,50,0,0,0,0,0,Regular" 
+titleColor="#000000" 
+labelColor="#000000" 
+backgroundColor="#ffffff" 
+backgroundOpacity="20" 
+position="7" 
+horizontalMargin="10" 
+verticalMargin="100" 
+width="150" 
+height="200">
+<Item value="0" color="#a6611a" transparent="false"/>
+<Item value="1" color="#dfc27d" transparent="false"/>
+</ColorMapSetting>
+
