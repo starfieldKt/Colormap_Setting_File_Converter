@@ -1,1 +1,7 @@
 # Colormap_Setting_File_Converter
+
+QGISからエクスポートしたカラーランプ設定をiRIC v4のカラーマップ設定ファイルに変換できます。
+
+* colormap_setting_file_converter.pyを実行して変換したいxmlファイルを選択します。
+* QGISで複数のカラーランプ設定を出力していた場合、対応した数の設定ファイルが作成されます。
+* カラーマップ以外のフォントやサイズの設定は同じディレクトリにいるtemplate.cmsettingから読み込むので変更したい場合は差し替えてください。
