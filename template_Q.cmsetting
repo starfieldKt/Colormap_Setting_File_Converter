@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ColorMapSetting 
-transitionMode="0" 
+transitionMode="1" 
 valueMode="1" 
 autoValueRange="true" 
 minValue="0" 
